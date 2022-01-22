@@ -10,8 +10,8 @@ It was said that humour is derived from the misfortune of others but as it turns
 
 * [Introduction](https://github.com/maddc0de/mixed-messages#Introduction)
 * [Technologies](https://github.com/maddc0de/mixed-messages#Technologies)
-* [Launch] (https://github.com/maddc0de/mixed-messages#Launch)
-* [Project Status] (https://github.com/maddc0de/mixed-messages#Project-Status)
+* [Launch](https://github.com/maddc0de/mixed-messages#Launch)
+* [Project Status](https://github.com/maddc0de/mixed-messages#Project-Status)
 
 
 ### Introduction
