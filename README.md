@@ -23,7 +23,7 @@ This is based off Mixed Message Project from Codecademy. The project's objective
 > - Build a message generator program using JavaScript
 > - Use Git version control
 > - Use command line
-> - Develp locally on (my) computer
+> - Develop locally on (my) computer
 
 I will create a Misfortune Cookie generator that utilises the following three data points:
 
@@ -53,7 +53,7 @@ should be launched over the node.js from the command line.
 
 -----
 
-* Project is: _ongoing_
+* Project is: _completed_
 
 
 
