@@ -1,8 +1,10 @@
 //pick random element from array
 const random = arr => arr[Math.floor(Math.random() * arr.length)];
 
+//random 1
 const dates = ['next month', 'this year', 'someday', 'in the future' ];
 
+//random 2
 const noPredictions = [
     'you\'re poorly dressed, be extra first.',
     'don\'t count on me.',
@@ -14,6 +16,7 @@ const noPredictions = [
     '..this isn\'t a cookie'
 ];
 
+//random 3
 const predictions = [
     `life won't always be this miserable. You'll get through this, ${random(dates)}. Maybe..`,
     `you will receive a huge present ${random(dates)} -a box of regrets`,
@@ -25,13 +28,11 @@ const predictions = [
     `${random(dates)}, You are going to cry so much, nothing new I know but that\'s ok lol`
 ];
 
-
-const randomNoP = Math.floor(Math.random() * noPredictions.length);
-const randomP = Math.floor(Math.random() * predictions.length);
-
 // pseudo-random boolean that decides if user receives a prediction or not
 const decide = Math.random() 
-const fortuneDecision = num => num <= 0.4999 ? console.log(predictions[randomNoP]) : console.log(noPredictions[randomP]);
+const fortuneDecision = num => num <= 0.4999 ? 
+console.log('Misfortune Cookie says: ' + random(predictions).toUpperCase()) : 
+console.log('Misfortune Cookie says: ' + random(noPredictions).toUpperCase());
 
 fortuneDecision(decide);
 
