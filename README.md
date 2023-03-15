@@ -1,7 +1,7 @@
 # Misfortune Cookie
 
 You can never expect what you will get from a fortune cookie, but with this Misfortune Cookie generator, one thing is certain -it will be unfortunate!
-It was said that humour is derived from the misfortune of others but as it turns out, *cracking* a joke at one's bad luck, can be just as funny.
+It was said that humour is derived from the misfortune of others so maybe, *cracking* a joke at one's bad luck, is not so bad...maybe
 
 
 ## Table of Contents
